@@ -1,0 +1,20 @@
+.Customers-table{
+    border-collapse: collapse;
+    width: 100%;
+}
+.Customers-table td, .Customers-table th{
+    border:1px solid #ddd;
+    padding:8px;
+}
+.Customers-table th{
+    background-color: #0488aa;
+    padding: 12px;
+    text-align: left;
+    color:#fff;
+}
+.Customers-table tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+.Customers-table tr:hover{
+    background-color: #ddd;
+}

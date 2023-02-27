@@ -1,0 +1,18 @@
+.Customer-avatar {
+    width: 35px;
+    margin-right: 10px;
+}
+.Modal-avatar{
+    width:135px;
+    margin-right: 20px;
+}
+.Modal-container{
+    display:flex;
+    gap:20px;
+}
+.Modal-innerLeft{
+    flex:0 0 14em
+}
+.active {
+    background: #cde5f9 !important;
+}

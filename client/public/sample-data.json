@@ -1,0 +1,153 @@
+{
+    "companyInfo": {
+        "companyName": "Russel and Sons",
+        "companyMotto": "robust engage web-readiness",
+        "companyEst": "2020-01-16T19:12:53.975Z"
+    },
+    "employees": [
+        {
+            "id": "e2c83448-0ee3-44ef-9e12-af2dec1411d2",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/betraydan/128.jpg",
+            "firstName": "Stella",
+            "lastName": "Johns",
+            "jobTitle": "National Quality Coordinator",
+            "contactNo": "0408 933 672",
+            "address": "Jacobson Track West Alicetown, Victoria",
+            "age": 44,
+            "bio": "Nobis impedit rerum quia quaerat id dolores omnis. Deleniti quibusdam facere dolorum dolor placeat. Maxime molestiae illo aut harum. Quia aut assumenda. Natus at doloremque soluta eveniet sed temporibus.",
+            "dateJoined": "2022-07-02T19:41:27.261Z"
+        },
+        {
+            "id": "7d8f094c-da7a-43f2-90cd-a0c16f78a483",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/trueblood_33/128.jpg",
+            "firstName": "Amber",
+            "lastName": "Mayer",
+            "jobTitle": "Legacy Mobility Representative",
+            "contactNo": "0433 779 751",
+            "address": "Madeline Grove Thomasfurt, Western Australia",
+            "age": 42,
+            "bio": "Non corrupti voluptate quia iste voluptas corporis cupiditate libero. Ea adipisci provident facilis sit enim. Est commodi neque autem ratione pariatur quia tempore aut odio. Et autem qui.",
+            "dateJoined": "2023-01-12T02:29:50.472Z"
+        },
+        {
+            "id": "013843a0-dc10-4c12-a5cb-f4cefaa4408e",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/andrewarrow/128.jpg",
+            "firstName": "Jasmine",
+            "lastName": "Morgan",
+            "jobTitle": "Global Operations Designer",
+            "contactNo": "0458 181 574",
+            "address": "Isabella Avenue North Chloe, Australian Capital Territory",
+            "age": 20,
+            "bio": "Doloribus aliquam voluptatem repellendus sit voluptates aperiam veritatis pariatur quam. Laboriosam corporis laudantium totam necessitatibus. Odio repellendus neque aliquam et earum.",
+            "dateJoined": "2022-09-29T15:10:07.716Z"
+        },
+        {
+            "id": "40dc1d59-1673-4864-bd98-1ac929739a46",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jeremiespoken/128.jpg",
+            "firstName": "Jonathan",
+            "lastName": "Thomson",
+            "jobTitle": "Direct Directives Consultant",
+            "contactNo": "0464 268 861",
+            "address": "Glover Boulevard South Chasechester, Western Australia",
+            "age": 25,
+            "bio": "Corporis qui temporibus voluptates accusamus nostrum repudiandae consequatur sunt. Quasi incidunt non nobis nemo id enim sed. Harum cumque necessitatibus blanditiis quidem alias reprehenderit. Qui fuga voluptatem nisi ea officiis. Nisi assumenda velit culpa temporibus quaerat. Et reiciendis omnis harum molestias vel fuga enim eum.",
+            "dateJoined": "2020-01-08T00:54:32.123Z"
+        },
+        {
+            "id": "3dd00071-ffd4-493e-b021-378f5c7e94e6",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/charliegann/128.jpg",
+            "firstName": "Ellie",
+            "lastName": "Williamson",
+            "jobTitle": "Product Directives Agent",
+            "contactNo": "0464 757 034",
+            "address": "Gabriel Summit East Toby, Victoria",
+            "age": 49,
+            "bio": "Repellat autem magnam est ut rerum hic exercitationem quibusdam. Alias facilis amet ut. Neque deleniti minus fugiat nobis.",
+            "dateJoined": "2017-08-24T05:35:07.231Z"
+        },
+        {
+            "id": "68ddb07c-8726-4998-8463-066df5f81ab6",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/beweinreich/128.jpg",
+            "firstName": "Matthew",
+            "lastName": "Gibson",
+            "jobTitle": "Central Intranet Planner",
+            "contactNo": "0447 532 345",
+            "address": "Schroeder Parkway South Oscartown, South Australia",
+            "age": 42,
+            "bio": "Molestias earum excepturi sunt odio aut eos. Vitae et est. Quasi quo eum est soluta molestias sint hic maiores.",
+            "dateJoined": "2021-04-10T23:13:44.362Z"
+        },
+        {
+            "id": "2345073f-a7b6-48af-a49a-7f87b701feac",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ainsleywagon/128.jpg",
+            "firstName": "Sophia",
+            "lastName": "Morrison",
+            "jobTitle": "Senior Response Agent",
+            "contactNo": "0458 774 793",
+            "address": "Beatty Road South Loganberg, Tasmania",
+            "age": 18,
+            "bio": "Voluptatem expedita occaecati explicabo nulla rem beatae quam velit reprehenderit. Quibusdam eaque id id. Ipsum totam nisi delectus et. Neque eum necessitatibus nobis fuga voluptatem minus. Rem libero rerum soluta qui. Odio molestiae expedita et accusantium magnam.",
+            "dateJoined": "2018-10-28T18:01:39.272Z"
+        },
+        {
+            "id": "a8a33e28-995e-4150-a13e-429a88a8622f",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/rdsaunders/128.jpg",
+            "firstName": "Lara",
+            "lastName": "Kemmer",
+            "jobTitle": "Future Brand Specialist",
+            "contactNo": "0486 170 513",
+            "address": "Bergstrom Island New Adamstad, South Australia",
+            "age": 34,
+            "bio": "Voluptatibus qui voluptatum. Temporibus quia alias cumque est officiis facere aut magni. Adipisci perspiciatis omnis magnam ex dolores perspiciatis reprehenderit minima.",
+            "dateJoined": "2022-02-01T08:01:03.779Z"
+        },
+        {
+            "id": "6e20a6e0-5436-42f8-aae0-8a0330f43647",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/prheemo/128.jpg",
+            "firstName": "Alexis",
+            "lastName": "Nicolas",
+            "jobTitle": "Lead Branding Facilitator",
+            "contactNo": "0424 178 250",
+            "address": "Samantha Mews South Mia, Northern Territory",
+            "age": 47,
+            "bio": "Cumque culpa quisquam soluta provident molestiae et. Qui unde autem placeat quos maxime hic ea at. Qui ex nam molestiae nesciunt vel. Dolorum accusamus id illum.",
+            "dateJoined": "2016-05-09T07:43:41.331Z"
+        },
+        {
+            "id": "4aa31794-44b8-4eda-a42a-b37e33e2af8f",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/coreyweb/128.jpg",
+            "firstName": "Sebastian",
+            "lastName": "Klein",
+            "jobTitle": "Investor Quality Supervisor",
+            "contactNo": "0469 667 988",
+            "address": "Summer Circuit South Summerland, Australian Capital Territory",
+            "age": 53,
+            "bio": "Laudantium veniam omnis aliquid repellendus sit occaecati molestias aut. Explicabo numquam earum perferendis. Ullam omnis saepe fugiat rerum. Neque consequatur et doloribus sunt sapiente quisquam sed totam quod. Ratione sit consequatur. Labore voluptates inventore sed.",
+            "dateJoined": "2013-01-07T19:14:04.912Z"
+        },
+        {
+            "id": "4c4964c5-9583-40eb-b672-f839fa5455d1",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/batsirai/128.jpg",
+            "firstName": "Madeline",
+            "lastName": "Boyle",
+            "jobTitle": "Customer Program Agent",
+            "contactNo": "0469 126 975",
+            "address": "Hughes Pass Richardsshire, Tasmania",
+            "age": 46,
+            "bio": "Quas aperiam aut. Ducimus esse et doloribus officia dolor. Consequatur repellat nihil dicta. Veniam rerum doloremque.",
+            "dateJoined": "2021-07-19T19:53:38.191Z"
+        },
+        {
+            "id": "1355b75f-f9ec-4935-a00f-925992396c93",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/rangafangs/128.jpg",
+            "firstName": "Marcus",
+            "lastName": "Greenholt",
+            "jobTitle": "Internal Interactions Manager",
+            "contactNo": "0444 045 003",
+            "address": "Goodwin Parkway Port Nathan, Northern Territory",
+            "age": 67,
+            "bio": "Est excepturi in qui voluptatem. Quas omnis nostrum et vero eius distinctio ut ex et. Odit dolor qui itaque rerum repudiandae atque in delectus maiores. Iusto cum tempora earum amet provident. Qui aut alias. Consectetur ab qui perspiciatis et sed.",
+            "dateJoined": "2022-06-24T20:02:34.910Z"
+        }
+    ]
+}
