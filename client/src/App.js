@@ -4,11 +4,11 @@ import CustomersComponent from './component/CustomersComponent/CustomersComponen
 import HeaderComponent from './component/HeaderComponent/HeaderComponent';
 import ZerostateComponent from './component/ZerostateComponent/ZerostateComponent'
 
-const initialState = {
-  customerData: [],
-  isLoading:true,
-  isError:true
-}
+// const initialState = {
+//   customerData: [],
+//   isLoading:true,
+//   isError:true
+// }
 
 const App = () => {
   const [customers, setCustomers] = useState([]);

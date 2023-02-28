@@ -2,6 +2,13 @@ import React from 'react';
 import './HeaderComponent.css';
 
 const HeaderComponent = ({headerDetails}) => {
+    const dateFormat = new Date(headerDetails.companyEst).toLocaleString("en-US",
+    {
+    month: "short",
+    day: "2-digit",
+    year: "numeric",
+    });
+
     return(
         <React.Fragment>
             <div className="Header-container">
@@ -10,13 +17,7 @@ const HeaderComponent = ({headerDetails}) => {
                     <div className="Comp-motto">{headerDetails.companyMotto}</div>
                 </div>
                 <div className="Header-innerRight">
-                    <div className="Comp-date">Since {new Date(headerDetails.companyEst).toLocaleString("en-US",
-                        {
-                        month: "short",
-                        day: "2-digit",
-                        year: "numeric",
-                        })
-                    }</div>
+                    <div className="Comp-date">Since {dateFormat}</div>
                 </div>
             </div>
         </React.Fragment>
