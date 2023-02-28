@@ -18,3 +18,11 @@
 .Customers-table tr:hover{
     background-color: #ddd;
 }
+.Search-input{
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+.Customers-searchContainer{
+    text-align: right;
+}

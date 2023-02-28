@@ -5,7 +5,7 @@ import HeaderComponent from './component/HeaderComponent/HeaderComponent';
 import ZerostateComponent from './component/ZerostateComponent/ZerostateComponent'
 
 const initialState = {
-  customerDate: [],
+  customerData: [],
   isLoading:true,
   isError:true
 }
